@@ -27,7 +27,7 @@ End of the program
 
 ```
 Developed By :R.KARTHIKEYAN
-Register Name: 22002525
+Referenece Name: 22002525
 
 import sys
 count = {}
